@@ -1,0 +1,15 @@
+.reviewsList {
+  list-style: none;
+  padding: 0;
+}
+
+.reviewItem {
+  margin-bottom: 16px;
+  border-left: 4px solid #0077cc;
+  padding-left: 12px;
+}
+
+.reviewAuthor {
+  font-weight: bold;
+  margin-bottom: 4px;
+}

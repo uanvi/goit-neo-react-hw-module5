@@ -1,0 +1,17 @@
+.container {
+  padding: 32px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 24px;
+}
+
+.loading,
+.error,
+.noMovies {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 40px;
+  color: #555;
+}

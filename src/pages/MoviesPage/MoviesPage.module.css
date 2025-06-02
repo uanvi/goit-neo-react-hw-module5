@@ -1,0 +1,36 @@
+.container {
+  padding: 32px;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 16px;
+}
+
+.searchForm {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.searchInput {
+  flex: 1;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.searchButton {
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.loading,
+.error,
+.noResults,
+.prompt,
+.resultsTitle {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 24px;
+}

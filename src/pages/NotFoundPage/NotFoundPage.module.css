@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding: 40px 20px;
+  background-color: #f8f9fa;
+}
+
+.content {
+  text-align: center;
+  max-width: 500px;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.message {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.homeLink {
+  font-size: 16px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.homeLink:hover {
+  text-decoration: underline;
+}
